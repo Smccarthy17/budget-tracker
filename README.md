@@ -40,3 +40,8 @@ Susan, Chris P., Jackson, Sarah, Ricky, Aaron
 
 Heroku Link: https://fierce-garden-22777.herokuapp.com/
 Github: https://github.com/Smccarthy17/budget-tracker.git
+
+
+## Screenshot
+<img width="792" alt="image" src="https://user-images.githubusercontent.com/90977936/190307901-012e8146-99ef-40cc-aef8-f0c55f008713.png">
+
